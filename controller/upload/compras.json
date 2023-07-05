@@ -1,0 +1,46 @@
+[
+    {
+        "id_compras":8489489 ,
+        "id_cliente":589715,
+        "valor":120.00,
+        "valor_pago":100.00,
+        "pago": 0
+    },
+    {   
+        "id_compras": 98489415,
+        "id_cliente":5649845,
+        "valor":150.00,
+        "valor_pago":0,
+        "pago":0
+    },
+    {
+        "id_compras": 8748184,
+        "id_cliente":48941516,
+        "valor":98.00,
+        "valor_pago":98.00,
+        "pago":1
+    },
+    {
+        "id_compras": 8498489,
+        "id_cliente":9841198,
+        "valor":145.00,
+        "valor_pago":120.00,
+        "pago":0
+    },
+    {
+        "id_compras": 4894218,
+        "id_cliente":44899848,
+        "valor":170.00,
+        "valor_pago":150.00,
+        "pago":0
+    },
+    {
+        "id_compras": 4898484,
+        "id_cliente":48941516,
+        "valor":520.20,
+        "valor_pago":100.20,
+        "pago":0
+    }
+    
+    
+]

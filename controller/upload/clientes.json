@@ -1,0 +1,148 @@
+[
+    {
+    "id_cliente": 589715,
+    "nome": "Paulo",
+    "endereco": "Rua Dois",
+    "telefone": "64385564455",
+    "cpf": "944.206.780-03"},
+
+    {
+    "id_cliente": 5649845,
+    "nome": "Joaquim",
+    "endereco": "Rua um",
+    "telefone": "64384586455",
+    "cpf": "033.236.210-85"},
+
+    {
+    "id_cliente": 48941516,
+    "nome": "João",
+    "endereco": "Rua sete",
+    "telefone": "7788957754",
+    "cpf": "299.890.710-55"},
+
+    {"id_cliente": 8945151,
+        "nome": "Jose",
+    "endereco": "Rua cinco",
+    "telefone": "89784848485",
+    "cpf": "727.295.390-00"},
+
+    {
+        "id_cliente": 44899848,
+        "nome": "Joana",
+    "endereco": "Rua oite",
+    "telefone": "8484454894",
+    "cpf": "473.021.340-81"},
+
+    {
+        "id_cliente": 848941165,
+        "nome": "Joelma",
+    "endereco": "Rua quinze",
+    "telefone": "4548481248",
+    "cpf": "943.443.870-58"},
+
+    {
+        "id_cliente": 89471156,
+        "nome": "Julia",
+    "endereco": "Rua trinta",
+    "telefone": "4564654851",
+    "cpf": "820.425.190-49"},
+
+    {
+        "id_cliente": 7894916,
+        "nome": "Matheus",
+    "endereco": "Rua vinte",
+    "telefone": "561564515",
+    "cpf": "698.780.310-20"},
+
+    {
+        "id_cliente": 9841198,
+        "nome": "Romeu",
+    "endereco": "Rua dez",
+    "telefone": "5448485454",
+    "cpf": "804.041.110-68"},
+
+    {
+        "id_cliente": 8488915,
+        "nome": "Gustavo",
+    "endereco": "Rua onze",
+    "telefone": "",
+    "cpf": "076.920.140-78"},
+
+    {
+        "id_cliente": 4598489,
+        "nome": "Ronalda",
+    "endereco": "Rua gomes",
+    "telefone": "454451665",
+    "cpf": "424.183.850-27"},
+
+    {
+        "id_cliente": 89415198,
+        "nome": "Estela",
+    "endereco": "Rua funcionario",
+    "telefone": "654888184",
+    "cpf": "730.496.160-08"},
+
+    {
+        "id_cliente": 894481,
+        "nome": "Joelma",
+    "endereco": "Rua mil",
+    "telefone": "564654564",
+    "cpf": "021.796.480-06"},
+
+    {
+        "id_cliente": 18978963,
+        "nome": "Ana",
+    "endereco": "Rua trinta",
+    "telefone": "8746548989",
+    "cpf": "198.921.130-55"},
+
+    {
+        "id_cliente": 4988916,
+        "nome": "Vicente",
+    "endereco": "Rua fonseca",
+    "telefone": "2335451354",
+    "cpf": "898.402.320-53"},
+
+    {
+        "id_cliente": 684818,
+        "nome": "Emilia",
+    "endereco": "Rua vinte",
+    "telefone": "6548484148",
+    "cpf": "070.555.710-30"},
+
+    {
+        "id_cliente": 789415218,
+        "nome": "Garibalda",
+    "endereco": "Rua cem",
+    "telefone": "64648513164",
+    "cpf": "891.187.510-40"},
+
+    {
+        "id_cliente": 9871528,
+        "nome": "Genoveva",
+    "endereco": "Rua Yatamarati",
+    "telefone": "648454885",
+    "cpf": "886.256.350-75"},
+
+    {
+        "id_cliente": 7851515,
+        "nome": "Giovana",
+    "endereco": "Rua Herrera",
+    "telefone": "64875199",
+    "cpf": "789.101.112-13"},
+    {
+        "id_cliente": 165448,
+        "nome": "Lucas",
+    "endereco": "Rua 1002",
+    "telefone": "997894516",
+    "cpf": "654.123.654-98"},
+    {
+        "id_cliente": 89485126,
+        "nome": "Yara",
+    "endereco": "Rua 4782",
+    "telefone": "651658489",
+    "cpf": "785.154.987-12"}
+
+
+]
+
